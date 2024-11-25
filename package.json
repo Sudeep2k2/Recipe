@@ -1,12 +1,9 @@
 {
-  "homepage": "https://Sudeep2k2.github.io/Recipe",
   "name": "recipe",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy": "gh-pages -d build",
     "recipe": "vite",
     "build": "vite build",
     "lint": "eslint .",
